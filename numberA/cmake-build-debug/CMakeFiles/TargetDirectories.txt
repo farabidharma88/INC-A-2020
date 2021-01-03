@@ -1,0 +1,3 @@
+/Users/farabidharma/Desktop/ICPC/ICPC_TrialTest/numberA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/farabidharma/Desktop/ICPC/ICPC_TrialTest/numberA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/farabidharma/Desktop/ICPC/ICPC_TrialTest/numberA/cmake-build-debug/CMakeFiles/NumberA.dir
